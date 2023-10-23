@@ -1,5 +1,5 @@
 import.java.util.Scanner;
-public class exxA
+public class exA
   public static void main (String args []) {
     Scanner in = new Scanner(System.in); double ing;
     int resp;
