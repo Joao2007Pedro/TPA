@@ -55,8 +55,11 @@ Este repositório serve como:
 ## 🏫 Contexto Acadêmico
 
 Disciplina: **TPA — Técnica de Programação Algorítmica**
+
 Curso: **Desenvolvimento de Sistemas**
+
 Instituição: **ETEC**
+
 Ano: **1º ano do curso**
 
 ---
