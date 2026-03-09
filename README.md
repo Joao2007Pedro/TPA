@@ -1,44 +1,64 @@
-# Exercícios de TPA
+# 📚 Exercícios de TPA
 
-Repositório com exercícios da matéria **TPA (Técnica de Programação Algorítmica)** do **1º ano do curso de Desenvolvimento de Sistemas da ETEC**.
+Repositório com exercícios da disciplina **TPA (Técnica de Programação Algorítmica)** do **1º ano do curso de Desenvolvimento de Sistemas da ETEC**.
 
-Os exercícios foram organizados em pastas de acordo com os conteúdos estudados durante a disciplina.
-
-## Estrutura do Repositório
-
-O repositório contém exercícios dos seguintes tópicos:
-
-- **Do While e FOR**  
-  Exercícios utilizando os laços de repetição `do while` e `for`.
-
-- **Laço While**  
-  Exercícios focados no uso do laço `while`.
-
-- **Matriz**  
-  Exercícios envolvendo matrizes (arrays bidimensionais).
-
-- **Switch Case**  
-  Exercícios utilizando a estrutura de seleção `switch case`.
-
-- **Tomada de Decisão**  
-  Exercícios utilizando estruturas condicionais como `if`, `else` e `else if`.
-
-- **Vetores**  
-  Exercícios utilizando vetores (arrays).
-
-- **Vetores (Complementares)**  
-  Exercícios adicionais para prática com vetores.
-
-## Objetivo
-
-Este repositório tem como objetivo **praticar lógica de programação e estruturas fundamentais**, como:
-
-- Estruturas condicionais
-- Laços de repetição
-- Vetores
-- Matrizes
-- Organização de algoritmos
+Todos os exercícios deste repositório foram desenvolvidos **utilizando Java**, com foco na prática de **lógica de programação e estruturas fundamentais de algoritmos**.
 
 ---
 
-📚 Exercícios desenvolvidos durante o **1º ano do curso de Desenvolvimento de Sistemas da ETEC**.
+## ☕ Linguagem Utilizada
+
+* **Java**
+
+---
+
+## 📂 Estrutura do Repositório
+
+```
+📦 exercicios-tpa
+ ┣ 📂 Do While e FOR
+ ┣ 📂 Laço While
+ ┣ 📂 Matriz
+ ┣ 📂 Switch Case
+ ┣ 📂 Tomada de Decisão
+ ┣ 📂 Vetores
+ ┗ 📂 Vetores (Complementares)
+```
+
+Cada pasta contém exercícios relacionados ao tema indicado.
+
+---
+
+## 🧠 Conteúdos Praticados
+
+Durante os exercícios foram praticados conceitos fundamentais de programação, como:
+
+* Estruturas de decisão (`if`, `else`, `switch`)
+* Laços de repetição (`while`, `do while`, `for`)
+* Vetores (arrays)
+* Matrizes
+* Lógica de programação
+* Estrutura básica de programas em **Java**
+
+---
+
+## 🎯 Objetivo
+
+Este repositório serve como:
+
+* Registro de estudos
+* Prática de lógica de programação em **Java**
+* Material de consulta para exercícios básicos de algoritmos
+
+---
+
+## 🏫 Contexto Acadêmico
+
+Disciplina: **TPA — Técnica de Programação Algorítmica**
+Curso: **Desenvolvimento de Sistemas**
+Instituição: **ETEC**
+Ano: **1º ano do curso**
+
+---
+
+⭐ Repositório criado para fins de **estudo e prática de programação em Java**.
